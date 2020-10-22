@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "http://watch.hoyosjuan.com/watch/",
+  "start_url": "https://hoyosjuan16.github.io/watch-view/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
