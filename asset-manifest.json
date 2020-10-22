@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "http://watch.hoyosjuan.com/watch/static/css/main.53e68720.chunk.css",
+    "main.js": "http://watch.hoyosjuan.com/watch/static/js/main.602463de.chunk.js",
+    "main.js.map": "http://watch.hoyosjuan.com/watch/static/js/main.602463de.chunk.js.map",
+    "runtime-main.js": "http://watch.hoyosjuan.com/watch/static/js/runtime-main.724882dd.js",
+    "runtime-main.js.map": "http://watch.hoyosjuan.com/watch/static/js/runtime-main.724882dd.js.map",
+    "static/js/2.972b6720.chunk.js": "http://watch.hoyosjuan.com/watch/static/js/2.972b6720.chunk.js",
+    "static/js/2.972b6720.chunk.js.map": "http://watch.hoyosjuan.com/watch/static/js/2.972b6720.chunk.js.map",
+    "index.html": "http://watch.hoyosjuan.com/watch/index.html",
+    "precache-manifest.9cf0a8b3640f56e7b6e62b749b74a2e6.js": "http://watch.hoyosjuan.com/watch/precache-manifest.9cf0a8b3640f56e7b6e62b749b74a2e6.js",
+    "service-worker.js": "http://watch.hoyosjuan.com/watch/service-worker.js",
+    "static/css/main.53e68720.chunk.css.map": "http://watch.hoyosjuan.com/watch/static/css/main.53e68720.chunk.css.map",
+    "static/js/2.972b6720.chunk.js.LICENSE.txt": "http://watch.hoyosjuan.com/watch/static/js/2.972b6720.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "http://watch.hoyosjuan.com/watch/static/js/runtime-main.724882dd.js",
+    "http://watch.hoyosjuan.com/watch/static/js/2.972b6720.chunk.js",
+    "http://watch.hoyosjuan.com/watch/static/css/main.53e68720.chunk.css",
+    "http://watch.hoyosjuan.com/watch/static/js/main.602463de.chunk.js"
+  ]
+}
